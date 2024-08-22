@@ -1,4 +1,4 @@
 # Emprestimos de livros 
-O primeiro contato com asp.net e o banco de dados usando microsoft.sql server com entity framework, 
-esse projeto me ajudou a entender todas as funcoes dentro de um site, ou seja, planejamento, criacao e organizacao.
-Nesse projeto foi focado mais o back end do que o front, mas alguns icones e tabelas foram utilizados do bootstrap.
+Meu primeiro contato com ASP.NET e banco de dados usando Microsoft SQL Server com Entity Framework foi um projeto que me proporcionou uma compreensão profunda de todas as etapas envolvidas no desenvolvimento de um site, desde o planejamento até a criação e organização. O foco principal do projeto foi o back-end, onde trabalhei na lógica de negócios e na integração com o banco de dados. No entanto, também utilizei alguns recursos de front-end, como ícones e tabelas, incorporados por meio do Bootstrap.
+
+
